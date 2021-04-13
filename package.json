@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cruip/open-react-template.git"
+    "url": "https://wenqiluo-lwq.github.io/MIMS21_Capstone_GEAR/"
   },
   "eslintConfig": {
     "extends": "react-app"
